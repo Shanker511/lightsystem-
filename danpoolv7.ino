@@ -1,4 +1,4 @@
-//Created by Dan Pautsch and Gareth Erwin of Managed Services 
+//Created by Dan Pautsch and Gareth Erwin 
 //Rainbow swirl when light sensor detects dark or no light
 //Red fade for light sensor detects bright light
 
